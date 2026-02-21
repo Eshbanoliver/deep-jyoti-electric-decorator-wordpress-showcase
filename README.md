@@ -17,7 +17,6 @@ Custom WordPress website developed for Deep Jyoti Electric Decorator, a trusted 
 - About section highlighting decades of experience, creative vision, precision, punctuality, customer satisfaction, modern equipment, and professional team
 - Photo gallery of past events (lighting setups, mandaps, receptions, religious functions)
 - FAQ section covering event types, customization, booking process, and on-site support
-- Contact section with phone (+91-9828012755), address (Mansarovar Sector 8, Mansarovar, Jaipur, Rajasthan), and inquiry form
 - Responsive, visually rich design optimized for event imagery (mobile-first)
 - SEO-friendly for local Jaipur wedding/event lighting searches
 
